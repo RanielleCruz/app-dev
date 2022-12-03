@@ -6,7 +6,7 @@
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
 
 
-|  Episodes     | Seasons |Director    | IMDb
+|  Episodes     | Seasons |   Director  | IMDb
 | :---        |    :----:   |          ---: | ---:
 | 10      | 4       | Daniel Percival  | [Link](https://www.imdb.com/title/tt1740299/?ref_=tt_mv_close)
 
