@@ -6,9 +6,9 @@
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
 
 
-|  Episodes     | Seasons |   Director  | IMDb
+|  Episodes and Seaons     | Genre |   Director  | IMDb
 | :---        |    :----:   |          :----: | ---:
-| 10      | 4       | Daniel Percival  | [Link](https://www.imdb.com/title/tt1740299/?ref_=tt_mv_close)
+| 10 episodes, 4 seaons     | Drama, Sci-Fi, Thriller       | Daniel Percival  | [Link](https://www.imdb.com/title/tt1740299/?ref_=tt_mv_close)
 
 
 
@@ -17,15 +17,6 @@
 
 ### Synopsis
 > A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
-
-```
-{
-  "Name" : "Shrek",
-  "Year Released" : 2001,
-  "Directed by" : "Andrew Adamson"
-  "IMDb" : [Link](https://www.imdb.com/title/tt0126029/)
-}
-```
 
 |  Running Time     | Genre |   Director  | IMDb
 | :---        |    :----:   |        :----: | ---:
