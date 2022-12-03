@@ -1,14 +1,14 @@
 # **Some Information About My Favorite Movies/Series**
 ## **The Man in the High Castle**
-![The Man in the High Castle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1740299%2F&psig=AOvVaw2Si8rPszlR15uG6y-v3G6V&ust=1670156893040000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjet7a53fsCFQAAAAAdAAAAABAO)
+![The Man in the High Castle](https://m.media-amazon.com/images/M/MV5BZWEwNzQ4NzUtMWRmYS00NDdiLTg5NDItODA5M2M4YTM0ZTE2XkEyXkFqcGdeQXVyMTAzNjU2NjM1._V1_.jpg)
 1. It contains 4 seasons; 
 2. In total, contains 40 episodes
 3. Adapted from the novel *The Man in the High Castle (1962)* .
-###Synopsis
+### Synopsis
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
 
 ## **All Quiet on the Western Front**
-![All Quiet on the Western Front](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1016150%2F&psig=AOvVaw37YHkiII_DX3iK2GP0-QIh&ust=1670156954044000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjD0dO53fsCFQAAAAAdAAAAABAE)
+![All Quiet on the Western Front](https://m.media-amazon.com/images/M/MV5BYTU2OWJhMjYtMjc2Ni00OTg4LTkxNGYtYjgwNGMyNjA3ODcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg)
 ```
 {
   "Name" : "All Quiet on the Western Front",
