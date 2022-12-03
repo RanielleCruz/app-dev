@@ -7,7 +7,7 @@
 
 
 |  Episodes     | Seasons |   Director  | IMDb
-| :---        |    :----:   |          ---: | ---:
+| :---        |    :----:   |          :----: | ---:
 | 10      | 4       | Daniel Percival  | [Link](https://www.imdb.com/title/tt1740299/?ref_=tt_mv_close)
 
 
@@ -26,3 +26,7 @@
   "IMDb" : [Link](https://www.imdb.com/title/tt0126029/)
 }
 ```
+
+|  Running Time     | Genre |   Director  | IMDb
+| :---        |    :----:   |        :----: | ---:
+| 90 minutes      | Animation, Adventure, Comedy       | Andrew Adamson, Vicky Jenson  | [Link](https://www.imdb.com/title/tt0126029/)
