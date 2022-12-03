@@ -4,10 +4,12 @@
 
 ### Synopsis
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
-| Episodes     | 40          | 
-| :---         |    :----:   |         
-| Seasons      | 4           | 
-| Created By   | Text        | 
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 ## **All Quiet on the Western Front**
