@@ -6,6 +6,7 @@
 3. Adapted from the novel *The Man in the High Castle (1962)* .
 ### Synopsis
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
+### 	[IMDb Page]([https://www.example.com](https://www.imdb.com/title/tt1740299/))
 
 ## **All Quiet on the Western Front**
 ![All Quiet on the Western Front](https://m.media-amazon.com/images/M/MV5BYTU2OWJhMjYtMjc2Ni00OTg4LTkxNGYtYjgwNGMyNjA3ODcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg)
