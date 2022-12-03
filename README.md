@@ -6,10 +6,10 @@
 > In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
 
 
-| Syntax      | Description | Test Text     |
+|  Episodes     | Seasons | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 10      | 4       | Here's this   |
+
 
 
 ## **All Quiet on the Western Front**
